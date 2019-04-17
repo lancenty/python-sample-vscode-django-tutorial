@@ -1,2 +1,2 @@
-Django>=2.1.2
-pytz==2018.5
+django >=1.9, <2
+waitress
